@@ -144,7 +144,7 @@ You can easily charge clients for:
 
 ## 👑 Author
 
-Built by **Om Singh** as part of 10-Day LLM Job-Ready Mastery Challenge.
+Built by **Om Rajput** as part of 10-Day LLM Job-Ready Mastery Challenge.
 
 ---
 
